@@ -1,3 +1,3 @@
 # rz_capcha_bot
 
-Capcha solver for an outdated capcha for unafficial server of outdated game.
+Solver for an outdated capcha for an unafficial server of an outdated game.
